@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gustavoloureirodosreis
 - 👀 I’m interested in ai-art, gaming, and crypto
 - 🌱 I’m currently learning React and Unity
-- 💞️ I’m looking to collaborate on nothing lol
+- 💞️ I’m looking to collaborate on anything I can
 - 📫 How to reach me gusts92@gmail.com
 
 <!---
